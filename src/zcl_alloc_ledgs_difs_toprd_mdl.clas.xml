@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Bus. process (Model) of PRG ZFI_ALLOC_LEDGS_DIFFS_TOPRD_GR</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>006</KEY>
+     <ENTRY>The user does not have access in object F_BKPF_BUK</ENTRY>
+     <LENGTH>100</LENGTH>
+    </item>
+   </TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FILL_SELECT_OPTIONS_STRUCTURE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Fill the SELECTION-SCREEN structure&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FILL_SELECT_OPTIONS_STRUCTURE</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Fill the SELECTION-SCREEN structure&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FILL_SELECT_OPTIONS_STRUCTURE</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Fill the SELECTION-SCREEN structure&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FILL_SELECT_OPTIONS_STRUCTURE</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Fill the SELECTION-SCREEN structure&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FILL_SELECT_OPTIONS_STRUCTURE</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Fill the SELECTION-SCREEN structure&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_LEDGERS_AMOUNT_DIFF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Ledgers amounts and find the Difference&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_LEDGERS_AMOUNT_DIFF</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Ledgers amounts and find the Difference&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_LEDGERS_AMOUNT_DIFF</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Ledgers amounts and find the Difference&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_LEDGERS_AMOUNT_DIFF</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Ledgers amounts and find the Difference&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_LEDGERS_AMOUNT_DIFF</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Ledgers amounts and find the Difference&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_OVH_EXPENCES_3RD_PARTIES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get sum amount of 3rd parties &amp; PM orders&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_OVH_EXPENCES_3RD_PARTIES</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get sum amount of 3rd parties &amp; PM orders&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_OVH_EXPENCES_3RD_PARTIES</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get sum amount of 3rd parties &amp; PM orders&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_OVH_EXPENCES_3RD_PARTIES</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get sum amount of 3rd parties &amp; PM orders&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_OVH_EXPENCES_3RD_PARTIES</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get sum amount of 3rd parties &amp; PM orders&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PREPARE_GET_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Doing all the work until display of records&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PREPARE_GET_DATA</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Doing all the work until display of records&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PREPARE_GET_DATA</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Doing all the work until display of records&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PREPARE_GET_DATA</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Doing all the work until display of records&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PREPARE_GET_DATA</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Doing all the work until display of records&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PRODUCTION_MATERIALS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Productive Materials&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PRODUCTION_MATERIALS</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Productive Materials&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PRODUCTION_MATERIALS</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Productive Materials&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PRODUCTION_MATERIALS</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Productive Materials&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>FIND_PRODUCTION_MATERIALS</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Productive Materials&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_WHB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Quantities &amp; Amounts from WHB&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_WHB</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Quantities &amp; Amounts from WHB&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_WHB</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Quantities &amp; Amounts from WHB&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_WHB</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Quantities &amp; Amounts from WHB&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_WHB</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Get Quantities &amp; Amounts from WHB&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_STR_SUM_ACDOCA_AMOUNTS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Return ACDOCA SUMs&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_STR_SUM_ACDOCA_AMOUNTS</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Return ACDOCA SUMs&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_STR_SUM_ACDOCA_AMOUNTS</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Return ACDOCA SUMs&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_STR_SUM_ACDOCA_AMOUNTS</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Return ACDOCA SUMs&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>GET_STR_SUM_ACDOCA_AMOUNTS</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Return ACDOCA SUMs&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>POST_INTO_ZFI_TAX_MM_COST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt;Post the displayed data&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>POST_INTO_ZFI_TAX_MM_COST</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt;Post the displayed data&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>POST_INTO_ZFI_TAX_MM_COST</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt;Post the displayed data&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>POST_INTO_ZFI_TAX_MM_COST</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt;Post the displayed data&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>POST_INTO_ZFI_TAX_MM_COST</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt;Post the displayed data&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>PREPARE_FINAL_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>&lt;strong&gt; Fill Final ITAB &amp; calculate the remaining&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>PREPARE_FINAL_DATA</CMPNAME>
+     <LANGU>룳</LANGU>
+     <DESCRIPT>&lt;strong&gt; Fill Final ITAB &amp; calculate the remaining&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>PREPARE_FINAL_DATA</CMPNAME>
+     <LANGU>묹</LANGU>
+     <DESCRIPT>&lt;strong&gt; Fill Final ITAB &amp; calculate the remaining&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>PREPARE_FINAL_DATA</CMPNAME>
+     <LANGU>봋</LANGU>
+     <DESCRIPT>&lt;strong&gt; Fill Final ITAB &amp; calculate the remaining&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALLOC_LEDGS_DIFS_TOPRD_MDL</CLSNAME>
+     <CMPNAME>PREPARE_FINAL_DATA</CMPNAME>
+     <LANGU>뽑</LANGU>
+     <DESCRIPT>&lt;strong&gt; Fill Final ITAB &amp; calculate the remaining&lt;/strong&gt;</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

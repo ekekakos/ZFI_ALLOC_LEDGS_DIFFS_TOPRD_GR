@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class for small programs</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>General Error</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>NO DATA fount in Internal Table &amp;1</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>룳</LANGU>
+    <LANGU>묹</LANGU>
+    <LANGU>봋</LANGU>
+    <LANGU>뽑</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>룳</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <STEXT>Message class for small programs</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>묹</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <STEXT>Message class for small programs</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>봋</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <STEXT>Message class for small programs</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>뽑</SPRSL>
+     <ARBGB>ZFI_SMALL_PROGRAMS</ARBGB>
+     <STEXT>Message class for small programs</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>룳</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>General Error</TEXT>
+    </item>
+    <item>
+     <SPRSL>룳</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>NO DATA fount in Internal Table &amp;1</TEXT>
+    </item>
+    <item>
+     <SPRSL>묹</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>General Error</TEXT>
+    </item>
+    <item>
+     <SPRSL>묹</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>NO DATA fount in Internal Table &amp;1</TEXT>
+    </item>
+    <item>
+     <SPRSL>봋</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>General Error</TEXT>
+    </item>
+    <item>
+     <SPRSL>봋</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>NO DATA fount in Internal Table &amp;1</TEXT>
+    </item>
+    <item>
+     <SPRSL>뽑</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>General Error</TEXT>
+    </item>
+    <item>
+     <SPRSL>뽑</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>NO DATA fount in Internal Table &amp;1</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
